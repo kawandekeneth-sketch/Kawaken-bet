@@ -1,0 +1,6 @@
+{
+  "name": "Kawaken Bet",
+  "description": "Your premium sports betting and casino games simulator of Kawaken Bet (bet.site.com).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
